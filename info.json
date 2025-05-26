@@ -1,0 +1,29 @@
+{
+  "name": "Synthetic CRO",
+  "symbol": "sCRO",
+  "address": "0x29FcA7DB77a21F72632aa960E42f28D5AB591352",
+  "chainId": 56,
+  "decimals": 8,
+  "type": "BEP20",
+  "description": "Institutional-grade synthetic CRO on BSC. Every sCRO is backed 1:1 by CRO locked on a private L2, validated through zero-knowledge proofs and multi-oracle consensus.",
+  "website": "https://scrotoken.xyz
+  "explorer": "https://bscscan.com/token/0x29FcA7DB77a21F72632aa960E42f28D5AB591352",
+  "status": "active",
+  "tags": [
+    "synthetic",
+    "bridge",
+    "institutional",
+    "cross-chain",
+    "defi"
+  ],
+  "links": {
+    "github": "https://github.com/Promiseland140/scro-assets",
+    "docs": "https://docs.scrotoken.xyz,
+    "telegram": "",
+    "twitter": ""
+  },
+  "markets": [
+    "PancakeSwap",
+    "OTC"
+  ]
+}
