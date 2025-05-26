@@ -1,0 +1,24 @@
+{
+  "name": "sCRO Official Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-01-27T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x29FcA7DB77a21F72632aa960E42f28D5AB591352",
+      "symbol": "sCRO",
+      "name": "Synthetic CRO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Promiseland140/scro-assets/main/logo.png",
+      "tags": [
+        "synthetic",
+        "wrapped",
+        "bridge"
+      ]
+    }
+  ]
+}
