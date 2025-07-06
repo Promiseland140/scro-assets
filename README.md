@@ -7,7 +7,7 @@ sCRO enables seamless CRO liquidity on Binance Smart Chain through a secure brid
 
 ## Token Details
 - **Symbol**: sCRO
-- **Contract**: `0x29FcA7DB77a21F72632aa960E42f28D5AB591352`
+- **Contract**: `0xB4D50BB4330322A45EA9d4fdf3F9a74FfbcC716a`
 - **Network**: Binance Smart Chain (BSC) Mainnet
 - **Chain ID**: 56
 - **Decimals**: 8
@@ -17,14 +17,13 @@ sCRO enables seamless CRO liquidity on Binance Smart Chain through a secure brid
 ## Security Features
 - ✅ **1:1 CRO Backing**: Every sCRO is backed by locked CRO on private L2
 - ✅ **Zero-Knowledge Proofs**: zk-SNARK validation for all minting operations
-- ✅ **Multi-Oracle Consensus**: Chainlink, Band Protocol, and Witnet validation
 - ✅ **Multi-Signature Controls**: Critical operations require multiple signatures
 - ✅ **Verified Contracts**: All contracts verified on BSCScan
 - ✅ **Upgradeable Architecture**: Proxy pattern for security updates
 
 ## Contract Addresses
 ### BSC Mainnet
-- **sCRO Token**: `0x29FcA7DB77a21F72632aa960E42f28D5AB591352`
+- **sCRO Token**: `0xB4D50BB4330322A45EA9d4fdf3F9a74FfbcC716a`
 - **Implementation**: `0x0048907f24809d78eaf554c5d478a88910b973d2`
 
 ## Use Cases
@@ -37,10 +36,10 @@ sCRO enables seamless CRO liquidity on Binance Smart Chain through a secure brid
 For platform integration, API access, and OTC services, please contact our institutional desk.
 
 ## Resources
-- [BSCScan](https://bscscan.com/token/0x29FcA7DB77a21F72632aa960E42f28D5AB591352)
+- [BSCScan](https://bscscan.com/token/0xB4D50BB4330322A45EA9d4fdf3F9a74FfbcC716a)
 - [Security Overview](./security.md)
 - [Integration Guide](./integration-guide.md)
 - [Token Info](./info.json)
 
 ## License
-Copyright (c) 2025 sCRO Bridge. All rights reserved.
+Copyright (c) 2025 sCRO /Lintsaver SA. All rights reserved.
