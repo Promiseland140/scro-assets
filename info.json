@@ -1,11 +1,11 @@
 {
   "name": "Synthetic CRO",
   "symbol": "sCRO",
-  "address": "0x29FcA7DB77a21F72632aa960E42f28D5AB591352",
+  "address": "0xB4D50BB4330322A45EA9d4fdf3F9a74FfbcC716a",
   "chainId": 56,
   "decimals": 8,
   "type": "BEP20",
-  "description": "Institutional-grade synthetic CRO on BSC. Every sCRO is backed 1:1 by CRO locked on a private L2, validated through zero-knowledge proofs and multi-oracle consensus.",
+  "description": "Institutional-grade synthetic CRO on BSC. Every sCRO is backed 1:1 by CRO locked on a private L2, validated through zero-knowledge proofs.",
   "website": "https://scrotken.xyz
   "explorer": "https://bscscan.com/token/0x29FcA7DB77a21F72632aa960E42f28D5AB591352",
   "status": "active",
