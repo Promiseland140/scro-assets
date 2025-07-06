@@ -6,8 +6,8 @@
   "decimals": 8,
   "type": "BEP20",
   "description": "Institutional-grade synthetic CRO on BSC. Every sCRO is backed 1:1 by CRO locked on a private L2, validated through zero-knowledge proofs.",
-  "website": "https://scrotken.xyz
-  "explorer": "https://bscscan.com/token/0x29FcA7DB77a21F72632aa960E42f28D5AB591352",
+  "website": "https://scrotken.xyz"
+  "explorer": "https://bscscan.com/token/0xB4D50BB4330322A45EA9d4fdf3F9a74FfbcC716a",
   "status": "active",
   "tags": [
     "synthetic",
@@ -18,7 +18,7 @@
   ],
   "links": {
     "github": "https://github.com/Promiseland140/scro-assets",
-    "docs": "https://docs.scrotken.xyz
+    "docs": "https://scrotken.xyz/wp-content/uploads/2025/07/sCRO-Technical-Whitepaper.pdf"
     "telegram": "",
     "twitter": ""
   },
